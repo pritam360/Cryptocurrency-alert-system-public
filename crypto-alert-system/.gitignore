@@ -1,0 +1,13 @@
+# Credentials
+gmail_credentials.json
+credentials.json
+.env
+.env.yaml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/

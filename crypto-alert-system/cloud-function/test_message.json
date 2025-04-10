@@ -1,0 +1,9 @@
+{
+    "user_id": "test123",
+    "cryptocurrency_id": "1",
+    "target_price": 50000.00,
+    "condition_type": "above",
+    "notification_type": "email",
+    "alert_id": "test-alert-1",
+    "current_price": 48000.00
+}

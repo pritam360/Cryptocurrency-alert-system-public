@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+google-cloud-pubsub
+google-cloud-firestore
+requests
+python-dotenv
+aiohttp
